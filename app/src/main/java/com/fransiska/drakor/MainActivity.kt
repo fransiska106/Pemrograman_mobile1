@@ -26,7 +26,7 @@ import androidx.compose.ui.unit.dp
 import com.fransiska.drakor.data.NewsDatasource
 import com.fransiska.drakor.model.NewsArticle
 import com.fransiska.drakor.ui.theme.DrakorTheme
-
+// kelas utama
 class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
