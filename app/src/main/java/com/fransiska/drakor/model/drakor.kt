@@ -1,6 +1,6 @@
 package com.fransiska.drakor.model
 
-data class NewsArticle(
+data class Drama(
     val titleResourceId: Int,
     val descriptionResourceId: Int,
     val imageResourceId: Int
